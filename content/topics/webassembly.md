@@ -13,6 +13,7 @@ packages=  [
   "console_log",
   "dodrio",
   "dominator",
+  "fp-bindgen",
   "futures-signals",
   "gloo",
   "moxie-dom",
